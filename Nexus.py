@@ -93,7 +93,7 @@ class GHPM_GUI(QWidget):
 
     def install_action(self):
         try:
-            os.system('python3 {os.getcwd()}/GI.py')
+            os.system(f'python3 {os.getcwd()}/GI.py')
         except:
             print('error')
 
