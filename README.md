@@ -10,11 +10,11 @@ Nexus PM is our second-generation package manager that has been significantly im
 - Improved security measures to ensure the safety of your software :shield:
 
 ## :wrench: How to Use -> Mac OS
-First, download the Nexus locally. 
-`git clone https://github.com/smoke-wolf/Nexus-PM.git`
-Secondly, enable it.
-`echo 'alias nexus="cd $(pwd)/Nexus-PM && python3 Nexus.py"' >> ~/.zshrc && exec zsh -l`
-Lastly, run Nexus with **nexus** in the terminal.
+First, download the Nexus locally. \
+`git clone https://github.com/smoke-wolf/Nexus-PM.git`\
+Secondly, enable it.\
+`echo 'alias nexus="cd $(pwd)/Nexus-PM && python3 Nexus.py"' >> ~/.zshrc && exec zsh -l`\
+Lastly, run Nexus with **nexus** in the terminal.\
 `nexus`
 ## :construction: Active Development
 
